@@ -9,10 +9,13 @@
   }
   
   .info{
-    margin-right: 50px;
     margin-left: 50px;
   }
 
+  .info12{
+    margin-right: 50px;
+  }
+  
   .info-txt{
     height: 40px;
   }
